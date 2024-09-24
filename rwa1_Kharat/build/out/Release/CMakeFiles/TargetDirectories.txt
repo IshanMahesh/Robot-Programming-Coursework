@@ -1,0 +1,4 @@
+/home/linux/enpm702_fall2024/rwa1_Kharat/build/out/Release/CMakeFiles/rebuild_cache.dir
+/home/linux/enpm702_fall2024/rwa1_Kharat/build/out/Release/CMakeFiles/edit_cache.dir
+/home/linux/enpm702_fall2024/rwa1_Kharat/build/out/Release/CMakeFiles/run_valgrind.dir
+/home/linux/enpm702_fall2024/rwa1_Kharat/build/out/Release/CMakeFiles/exercise1.dir

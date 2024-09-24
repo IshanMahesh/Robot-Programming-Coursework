@@ -1,0 +1,2 @@
+/home/linux/enpm702_fall2024/rwa1_Kharat/build/CMakeFiles/rebuild_cache.dir
+/home/linux/enpm702_fall2024/rwa1_Kharat/build/CMakeFiles/edit_cache.dir
